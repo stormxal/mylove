@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-size: 27px;
+    color: rgb(243, 97, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Uchiyama', sans-serif;
+}
+
+p {
+font-family: 'Lower Pixel', sans-serif;
+      max-width: 395px;
+      margin: 0 auto;
+      color: white;
+      gap: 10px;
+      text-align: center;
+}
+
+body {
+    background: rgb(0, 0, 0);
+}
+
+img {
+    border-radius: 20px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;   
+}
+
+mark {
+    background: plum;
+    opacity: 90%;
+}
+
+a {
+    color: plum;
+    text-decoration: none;
+    font-size: 22px;
+
+}
+.links {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Lower Pixel', sans-serif;
+}
